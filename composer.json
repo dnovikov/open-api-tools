@@ -1,0 +1,19 @@
+{
+    "name": "dnovikov/open-api-tools",
+    "description": "Open API 3 scheme sorting and filtering tools.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dnovikov\\OpenApiTools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmytro Novikov",
+            "email": "dmytr.novikov@gmail.com"
+        }
+    ],
+    "require": {
+        "cebe/php-openapi": "^1.7"
+    }
+}
